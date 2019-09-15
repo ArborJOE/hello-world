@@ -1,2 +1,2 @@
 # hello-world
-decode jpeg's stegnography
+decode jpeg's stegnography Cryptography
